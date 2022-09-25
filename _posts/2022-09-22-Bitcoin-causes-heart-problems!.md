@@ -1,4 +1,4 @@
-Bitcoin causes heart problems!
+Bitcoin Causes Heart Problems!
 
 ---
 
@@ -19,3 +19,6 @@ The monitors captured two types of arrhythmia that can make people feel their he
 According to the report, the risk of premature ventricular contractions within two hours of exposure increased by 5% for every block created on the blockchain. Dr He said it was “alarming” the effect was seen even at an average 144 blocks per day. 
 
 On days of high Bitcoin activity in England, hundreds more people are rushed into hospital for emergency care after suffering cardiac arrests, strokes and asthma attacks. Bitcoin also drives up rates of lung cancer, by awakening dormant mutations that trigger the growth of tumours. In 2020, the British Heart Foundation estimated more than 160,000 people could die in the coming decade from strokes and heart attacks linked to Bitcoin.
+
+
+<a href="[http://example.com/](https://getalby.com/p/thebonion)" target="_blank">Donate thebonion@getalby.com to keep the FUD coming!</a>
