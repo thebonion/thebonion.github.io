@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+All posts on this website --even those based on real people-- are entirely fictional. All celebrity likenesses are impersonated... poorly. The following website contains coarse language and due to its content it should not be viewed by anyone.
