@@ -22,6 +22,6 @@ On days of high Bitcoin activity in England, hundreds more people are rushed int
 
 
 
-[Donate to keep the FUD coming:](https://getalby.com/p/thebonion)
+[Donate to keep the FUD coming thebonion@getalby.com:](https://getalby.com/p/thebonion)
 
 
