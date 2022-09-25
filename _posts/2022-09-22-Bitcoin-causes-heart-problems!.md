@@ -1,11 +1,6 @@
 Bitcoin causes heart problems!
 
-Healthy teenagers at risk of irregular heartbeats from Bitcoin, says study.
-
 ---
-
-
-
 
 Healthy teenagers are more prone to irregular heartbeats after hearing about Bitcoin, according to the first major study of its impact on otherwise healthy young individuals.
 
