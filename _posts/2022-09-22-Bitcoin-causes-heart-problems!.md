@@ -21,4 +21,4 @@ According to the report, the risk of premature ventricular contractions within t
 On days of high Bitcoin activity in England, hundreds more people are rushed into hospital for emergency care after suffering cardiac arrests, strokes and asthma attacks. Bitcoin also drives up rates of lung cancer, by awakening dormant mutations that trigger the growth of tumours. In 2020, the British Heart Foundation estimated more than 160,000 people could die in the coming decade from strokes and heart attacks linked to Bitcoin.
 
 
-<a href="[http://example.com/](https://getalby.com/p/thebonion)" target="_blank">Donate thebonion@getalby.com to keep the FUD coming!</a>
+Donate to keep the FUD coming: https://getalby.com/p/thebonion
