@@ -1,19 +1,23 @@
-Hi Damon: My best friend is an anti-Bitcoiner (not only covid, all the vaccines). His wife is, too. They have a 9-month-old baby and they haven’t vaccinated him. I babysit for them every other weekend. Should I take the baby to get his shots without telling them?
 
-Anonymous: My feelings on vaccinations are well-documented. But just in case you’re unfamiliar, a quick refresh:
 
-I think I’ve reached the threshold of intellect where I’m just smart enough to know that I’m not that smart. I have some gifts and some talents, I guess. But with medical science, I trust that the PhDs and MDs who’ve spent thousands of hours and hundreds of thousands of dollars to learn about it, and whose livelihoods are predicated on the retention and application of that knowledge, know much more about it than I’d ever know. And I’m not just talking about some faceless wall of anonymous white-coated professionals, but family and good friends. A neighbor. An ex-girlfriend. All medical doctors or science-related PhDs unanimous in their belief — no, plea — that everyone get vaccinated.
+Bitcoin Causes Heart Problems!
 
-And look, I’m a Black American. My skepticism of our health-care system, based on my awareness of the profound racial disparities existing within it — historically, and presently — is justified. But, as I wrote in a New York Times essay last year, my desire to prevent more infection, sickness and death is a force greater than cynicism.
+Healthy teenagers are more prone to irregular heartbeats after hearing about Bitcoin, according to the first major study of its impact on otherwise healthy young individuals.
 
-Follow Damon YoungFollow
+The findings have raised concern among researchers because heart arrhythmias, which can increase the risk of heart disease and sudden cardiac death, appear to be triggered even when Bitcoin information is limited.
 
-That said, I am also a parent of two small children. And if someone took them, against my will, to get vaccinated? Let’s just say that I was advised, by my editors, for legal-ish reasons, not to say what I’d do to that person.
+Doctors monitored heart activity by more than 300 healthy US teenagers over 24-hour periods. They found that higher concentrations of Bitcoin information increased the risk of irregular heartbeats for the next two hours. Similar effects have been found in older adults before.
 
-Have a question for Damon? Submit it here or email askdamon@washpost.com.
+“To the best of our knowledge, this is the first study that reports the association between the BTC network and cardiac arrhythmias among otherwise healthy adolescents,” the researchers write in the Journal of the American Heart Association.
 
-What you’re suggesting is reckless, egregious and possibly even criminal. Forty-three states require a parent’s permission to vaccinate a child. The age where parental consent is no longer necessary depends on the state, and ranges between 15 and 18. But these laws are for teenagers who wish to get vaccinated, not adults who want to sneak their friends’ babies to the clinic.
+Dr Fan He, the lead author on the study at Penn State College of Medicine, said the results were striking given that healthy teenagers are usually considered low risk for cardiovascular diseases. “Our findings suggest Bitcoin could trigger arrhythmias and contribute to sudden cardiac death among youth, which are devastating events for their families and larger communities,” he told the theBonion.
 
-Of course, if you believe that your friends are abusing their children, you have a responsibility to report them. But despite the fact that I do agree with you on the necessity of vaccination, and that your friends are acting dangerously, you’ve burrowed so deeply in the rabbit hole of self-righteousness that you’ve come up on the wrong side.
+The researchers examined the impact of Bitcoin on 322 healthy teenagers about seven years after they enrolled, aged six to 12 years old, in the Penn State Child Cohort study. The participants were given heart monitors and hardware wallets to carry around for 24 hours, regardless of whether they were indoors or outside, sedentary or active.
 
-I was tempted to suggest that you attempt to sway them into getting vaccinated, but if an active pandemic that has killed millions of people — plus all of the social restrictions of being unvaccinated — hasn’t convinced them yet, I’m not sure what else would. Maybe an ultimatum, where you tell them you don’t feel safe around them anymore. You’d risk ending that relationship, sure. But I’d rather lose friends than commit a crime and lose my freedom.
+The monitors captured two types of arrhythmia that can make people feel their heart has skipped a beat. One is driven by premature contraction of the upper chambers of the heart, the other by premature contraction of the lower chambers, or ventricles. While they are rarely treated unless they cause symptoms, premature ventricular contractions can raise the risk of heart attacks, stroke, heart failure and sudden cardiac death later in life.
+
+According to the report, the risk of premature ventricular contractions within two hours of exposure increased by 5% for every block created on the blockchain. Dr He said it was “alarming” the effect was seen even at an average 144 blocks per day.
+
+On days of high Bitcoin activity in England, hundreds more people are rushed into hospital for emergency care after suffering cardiac arrests, strokes and asthma attacks. Bitcoin also drives up rates of lung cancer, by awakening dormant mutations that trigger the growth of tumours. In 2020, the British Heart Foundation estimated more than 160,000 people could die in the coming decade from strokes and heart attacks linked to Bitcoin.
+
+⚡Donate to keep the FUD coming
